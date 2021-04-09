@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-# You just have to run npm install and then npm start.
+# You just have change the name of project in package.json and then run npm install and then npm start.
 Happy Hacking..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
